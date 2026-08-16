@@ -34,5 +34,5 @@ A dynamic 2D physics-based simulation built in Python using Tkinter and PIL (Pil
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/amine-jelassi7/rock_paper_scissors_2.0.git](https://github.com/amine-jelassi7/rock_paper_scissors_2.0.git)
-cd rock_paper_scissors_2.0
+git clone [https://github.com/amine-jelassi7/rock_paper_scissors_kinetic_battle.git](https://github.com/amine-jelassi7/rock_paper_scissors_kinetic_battle.git)
+cd rock_paper_scissors_kinetic_battle
