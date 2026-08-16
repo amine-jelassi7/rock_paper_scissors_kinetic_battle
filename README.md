@@ -8,7 +8,7 @@ A dynamic 2D physics-based simulation built in Python using Tkinter and PIL (Pil
 
 | Active Battle | Victory Screen |
 | :---: | :---: |
-| ![Kinetic Battle](assets/battle_gameplay.png) | ![Victory Banner](assets/victory_screen.png) |
+| ![Kinetic Battle](assets/gameplay.png) | ![Victory Banner](assets/victory.png) |
 
 ---
 
