@@ -221,5 +221,7 @@ class GameApp:
 
 if __name__ == "__main__":
     root = tk.Tk()
+    icon = tk.PhotoImage(file="assets/icon.png")
+    root.iconphoto(True, icon)
     app = GameApp(root)
     root.mainloop()
