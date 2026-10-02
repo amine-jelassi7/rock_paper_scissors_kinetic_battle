@@ -1,6 +1,5 @@
 #  Rock Paper Scissors Kinetic Battle Simulation
 
-
 A dynamic 2D physics-based simulation built in Python using Tkinter and PIL (Pillow). Watch entities move, bounce off canvas boundaries, collide, and convert each other based on classic Rock-Paper-Scissors rules until one entity type achieves total visual dominance!
 
 ---
